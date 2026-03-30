@@ -1,0 +1,29 @@
+body {
+  background-image: url("https://img.freepik.com/premium-photo/modern-campus-with-students-walking-through-lush-green-pathway-bright-sunny-day-aig_31965-477378.jpg?w=2000" );
+  font-family: Arial;
+  text-align: center;
+
+}
+.container {
+  background-color: rgb(0, 255, 191);
+  
+  padding: 20px;
+  width: 300px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 10px;
+}
+
+input {
+  width: 90%;
+  padding: 8px;
+  margin: 5px;
+}
+
+button {
+  padding: 10px;
+  width: 100%;
+  background: blue;
+  color: white;
+  border: none;
+}
